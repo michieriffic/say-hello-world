@@ -141,3 +141,10 @@ Pseudo elements are not selecting anything on the html file rather it adds somet
 **Screenshot of Result here:**
 
 ![Hello World CSS Output](https://raw.githubusercontent.com/michieriffic/say-hello-world/master/CSS/HelloWorldCSS_WebScreenShot.png)
+
+###SAMPLE CODE:
+
+[Hello World Inline CSS](https://github.com/michieriffic/say-hello-world/blob/master/CSS/Hello%20World%20Inline%20CSS/HelloWorld.html)
+[Hello World Internal CSS](https://github.com/michieriffic/say-hello-world/blob/master/CSS/Hello%20World%20Internal%20CSS/HelloWorld.html)
+[Hello World External CSS](https://github.com/michieriffic/say-hello-world/tree/master/CSS/Hello%20World%20External%20CSS)
+
