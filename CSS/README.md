@@ -62,7 +62,7 @@ Compose of:
 * : - separates the property and value
 * ; - separates two declaration 
 
-> **Syntax style:** property : value
+> **Syntax style:** `property : value`
 
 ` color: blue; `
 
@@ -90,6 +90,7 @@ Ruleset
 - a.k.a. rule
 
 Parts:
+
 1. Selector 
 - part of the HTML element that you want to target
 - it is written before the declaration block
