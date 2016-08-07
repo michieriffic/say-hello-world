@@ -38,4 +38,5 @@ Most of the HTML elements have a start tag and an end tag
 ### NOTE:
 The main file is usually named as index.html, but for this book, all main file will be named "helloWorld".
 
-
+###SAMPLE CODE:
+[HelloWorld.html]()
