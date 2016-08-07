@@ -18,12 +18,12 @@
 > 2. By inserting it to your HTML file using the style tag in the `<head> </head> section`. (Internal CSS)
 >
 >	```
->		<style>
+>	    <style>
 >			h1 { color: blue; }
 >       </style>
 >   ```	
 >
-> 3. By linking you CSS file in the head section of your HTML file using the link tag (External CSS)
+> 3. By linking your CSS file in the head section of your HTML file using the link tag (External CSS)
 >
 >	HelloWorld.html
 >
@@ -55,17 +55,14 @@ Compose of:
 1. Property - identifies the feature of the HTML elements you want to manipulate (eg. color)
 2. Value - describes the characteristics of your feature (eg. blue)
 
+*Example:*
 
-Syntax
+* property - color
+* value - blue
+* : - separates the property and value
+* ; - separates two declaration 
 
-Example:
-
-property - color
-value - blue
-: - separates the property and value
-; - separates two declaration 
-
-property : value
+> **Syntax style:** property : value
 
 ` color: blue; `
 
@@ -90,9 +87,9 @@ Delimeter: { } - opening brace `{` and closing brace `}`
 
 Ruleset 
 - pair selector-declaration block
-- aka rule
+- a.k.a. rule
 
-Part:
+Parts:
 1. Selector 
 - part of the HTML element that you want to target
 - it is written before the declaration block
