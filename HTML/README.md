@@ -1,4 +1,3 @@
-
 # HTML
  
 - known as HyperText Markup Language
@@ -39,4 +38,6 @@ Most of the HTML elements have a start tag and an end tag
 The main file is usually named as index.html, but for this book, all main file will be named "helloWorld".
 
 ###SAMPLE CODE:
-[HelloWorld.html]()
+
+[Hello World](https://github.com/michieriffic/say-hello-world/blob/master/HTML/helloWorld.html)
+[Hello World with Basic HTML Structure](https://github.com/michieriffic/say-hello-world/blob/master/HTML/helloWorldWithBasicStructure.html)
