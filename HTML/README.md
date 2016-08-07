@@ -19,9 +19,9 @@ HTML tags are composed of:
 
 Most of the HTML elements have a start tag and an end tag
 ```
-<h1><!-- Start Tag -->
+<h1> <!-- Start Tag -->
 
-</h1><!-- End Tag -->
+</h1> <!-- End Tag -->
 
 ```
 
