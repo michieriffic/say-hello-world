@@ -84,7 +84,7 @@ Delimeter: { } - opening brace `{` and closing brace `}`
 }
 ```
 
-**CSS rulesets**
+**CSS RULESETS**
 
 Ruleset 
 - pair selector-declaration block
@@ -118,6 +118,7 @@ div h1 {
 **Cascade Algorithm** 
 - determines which rule will affect what element based on several ruleset since it is possible that one element of a web page can be affected by multiple declarations or declaration blocks.
 
+* * *
 
 NOTE:
 CSS are not intended to insert text content. That's the responsibility of HTML. But for this practice, we will be doing this so we can write "Hello World" using CSS. 
@@ -145,6 +146,8 @@ Pseudo elements are not selecting anything on the html file rather it adds somet
 ###SAMPLE CODE:
 
 [Hello World Inline CSS](https://github.com/michieriffic/say-hello-world/blob/master/CSS/Hello%20World%20Inline%20CSS/HelloWorld.html)
+
 [Hello World Internal CSS](https://github.com/michieriffic/say-hello-world/blob/master/CSS/Hello%20World%20Internal%20CSS/HelloWorld.html)
+
 [Hello World External CSS](https://github.com/michieriffic/say-hello-world/tree/master/CSS/Hello%20World%20External%20CSS)
 
