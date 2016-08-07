@@ -1,0 +1,7 @@
+h1:before { 
+	content: "Hello";
+}
+
+h2:after { 
+	content: "World";
+}
