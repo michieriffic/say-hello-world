@@ -2,6 +2,7 @@
 
 Almost everything starts with "Hello World" in programming. This book is a collection of ways you can start learning a new programming language.
 
+![Hello World](https://raw.githubusercontent.com/michieriffic/say-hello-world/master/HelloWorld.png)
 
 # Contribution
 
