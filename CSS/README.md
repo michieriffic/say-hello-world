@@ -73,7 +73,7 @@ Compose of:
 **CSS Declaration Blocks:**
 
 - when you have a group of declarations, you grouped it in a block.
-- a block -> { content here }
+- a block is starts with `{` and ends with `}`. The content goes inside the curly braces.
 
 Delimeter: { } - opening brace `{` and closing brace `}`
 
@@ -92,10 +92,7 @@ Ruleset
 
 Parts:
 
-1. Selector 
-- part of the HTML element that you want to target
-- it is written before the declaration block
-
+1. Selector - part of the HTML element that you want to target. It is written before the declaration block
 2. Declaration Block
 3. Declarations
 
@@ -107,7 +104,6 @@ h1 {
 	color: blue;
  	background-color: red;
 }
-
 ```
 
 Group of Selectors - div h1
@@ -117,7 +113,6 @@ div h1 {
 	color: blue;
  	background-color: red;
 }
-
 ```
 
 **Cascade Algorithm** 
