@@ -1,9 +1,21 @@
 # Say "Hello World" in different programming languages
 
+Almost everything starts with "Hello World" in programming. This book is a collection of ways you can start learning a new programming language.
+
+
+# Contribution
+
+Anyone who would like to contribute is definitely welcome and appreciated. Thank you.
+
+**Just to note that:**
+If you decide to contribute content and not just correcting grammars and typo to this repository, you are explicitly giving me and this book all the rights to your content as long as you're attributed to your work. 
+
+Every contributor will be given attribution on their work. But collectively, the license and copyright will be under me, this book and repository. 
+
 
 # License & Copyright
 
-The materials herein are all (c) 2016 Michie Riffic.
+The materials herein are all (c) 2016 [Michie Riffic](https://twitter.com/michieriffic).
 
 Creative Commons License
 
