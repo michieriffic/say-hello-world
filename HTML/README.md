@@ -4,6 +4,8 @@
 - known as HyperText Markup Language
 - is the standard markup language used to create a web page
 - is the most basic file you need to start your website
+
+> When you see HTML, think 'Structure'.
  
 ###**File Extension: .html**
 
