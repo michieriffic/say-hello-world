@@ -143,4 +143,4 @@ Pseudo elements are not selecting anything on the html file rather it adds somet
 
 **Screenshot of Result here:**
 
-
+![Hello World CSS Output](https://raw.githubusercontent.com/michieriffic/say-hello-world/master/CSS/HelloWorldCSS_WebScreenShot.png)
