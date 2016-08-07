@@ -52,6 +52,7 @@
 **CSS Declaration:**
 
 Compose of:
+
 1. Property - identifies the feature of the HTML elements you want to manipulate (eg. color)
 2. Value - describes the characteristics of your feature (eg. blue)
 
