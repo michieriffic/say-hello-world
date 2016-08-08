@@ -6,7 +6,7 @@ Almost everything starts with "Hello World" in programming. This book is a colle
 
 # Contribution
 
-Anyone who would like to contribute is definitely welcome and appreciated. Thank you.
+Anyone who would like to contribute is definitely welcome and appreciated. [Click this link to checkout details on how to contribute](https://github.com/michieriffic/say-hello-world/blob/master/Contribution%20README.md). Thank you.
 
 **Just to note that:**
 If you decide to contribute content and not just correcting grammars and typo to this repository, you are explicitly giving me and this book all the rights to your content as long as you're attributed to your work. 
