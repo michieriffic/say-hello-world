@@ -18,7 +18,7 @@
 
 **Sample Syntax for a function: **
 
-functionName("String Here")
+functionName(argument)
 
 ```
 print("Hello World")
