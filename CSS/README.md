@@ -1,4 +1,4 @@
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" align="left" width="150"></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="150"></a>
 
 # CSS
 
