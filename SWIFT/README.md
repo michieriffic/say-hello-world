@@ -1,6 +1,6 @@
-#SWIFT
-
 ![Swift](https://devimages.apple.com.edgekey.net/assets/elements/icons/swift/swift-64x64.png)
+
+# SWIFT
 
 - is the new programming language for creating iOS (iPhone & iPAD), MacOS (Mac), WatchOS (Apple Watch), tvOS (Apple TV) Apps.
 
@@ -12,9 +12,9 @@
 
 - It is open-source. You can check it out and contribute to it if you want at [Github](https://github.com/apple/swift) 
 
-###**File Extension: .swift**
+### **File Extension: .swift**
 
-###**Syntax: **
+### **Syntax: **
 
 **Sample Syntax for a function: **
 
