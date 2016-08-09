@@ -36,4 +36,6 @@ To learn more, check out the Resources written below.
 
 [Swift Website](https://swift.org)
 
+[Get Started with Swift](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
+
 
