@@ -1,4 +1,4 @@
-# Say "Hello World" in different programming languages
+# Say "Hello World" in different programming languages & technologies
 
 Almost everything starts with "Hello World" in programming. This book is a collection of ways you can start learning a new programming language or a new technology.
 
