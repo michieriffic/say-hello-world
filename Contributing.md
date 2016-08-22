@@ -1,4 +1,4 @@
-#Contribution README 
+#How to Contribute
 
 **If you want to contribute, do a pull request with the following format:**
 
