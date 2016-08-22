@@ -7,7 +7,7 @@
    * [SWIFT](Programming Languages/SWIFT/README.md)
    * [Shell](Programming Languages/Shell/README.md)
 * [Frameworks](Frameworks)
-   * [Bootstrap](Frameworks/web/bootstrap/README.md)
+   * [Bootstrap](Frameworks/Web/bootstrap/README.md)
 * [Data](Data)
    * [JSON](Data/JSON/README.md)
 
