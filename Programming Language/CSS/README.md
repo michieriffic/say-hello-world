@@ -1,4 +1,4 @@
-![CSS](https://upload.wikimedia.org/wikipedia/commons/6/6e/CSS3_badge.svg)
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="150"></a>
 
 # CSS
 

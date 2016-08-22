@@ -18,7 +18,7 @@
 
 **Sample Syntax for a function: **
 
-functionName("String Here")
+functionName(argument)
 
 ```
 print("Hello World")
@@ -35,5 +35,7 @@ To learn more, check out the Resources written below.
 [Swift 3 Programming Language Documentation](https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
 
 [Swift Website](https://swift.org)
+
+[Get Started with Swift](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 
 
