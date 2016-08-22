@@ -20,6 +20,8 @@
 
 **To run the helloworld.sh**
 
-1. Type 'bash helloworld.sh' in your terminal
+1. Type 'bash helloworld.sh' or 'sh helloworld.sh' in your terminal
 2. Make sure you are in the current working directory where the helloworld.sh lives
 
+###SAMPLE CODE:
+[helloworld.sh](https://github.com/michieriffic/say-hello-world/blob/master/Programming%20Languages/Shell/helloworld.sh)
