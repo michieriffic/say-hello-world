@@ -17,6 +17,7 @@
 ``
 
 **Add in your body tag (usually before the body tag closes)
+```
 
 ```
 <!-- Latest compiled and minified JavaScript -->
