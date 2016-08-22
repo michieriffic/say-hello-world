@@ -1,0 +1,15 @@
+{
+	"memberHelloWorld": "Hello World",
+	"memberArray": ["Hello", "World", "Array"],
+	"memberValue": {
+		"memberString": "Hello World String",
+		"memberNumber": 1,
+        "memberArray": ["Hello", "World", "Array", "in", "Object"],
+        "memberTrue": true,
+        "memberFalse": false,
+        "memberNull": null,
+        "memberObject": { 
+        	"member": "Hello World as member of an object in an object"
+        }
+	}
+}
