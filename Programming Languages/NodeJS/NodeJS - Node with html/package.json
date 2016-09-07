@@ -1,0 +1,11 @@
+{
+  "name": "helloworldservinghtmlfile",
+  "version": "0.0.1",
+  "description": "Hello World serving html file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "say hello world",
+  "license": "ISC"
+}
