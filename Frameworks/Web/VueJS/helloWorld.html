@@ -1,0 +1,21 @@
+<!-- 1. Add Vue.js -->
+<script src="https://unpkg.com/vue@next/dist/vue.js"></script>
+
+<!-- 2. Inside the HTML Body, add an id for reference, add templating syntax {{ }} to pass in the data within the id group-->
+<div id="app">
+  <p>{{ message }}</p>
+  <p>{{ age }}</p>
+</div>
+
+<!-- 3. For JS file - Create a new Vue, adding the referencing id as value in "el" key, add the data to be passed in the "data" key -->
+<script type="text/javascript">
+	
+	var app = new Vue({
+	  		el: '#app',
+	  		data: {
+	    		message: 'Hello World in Vue.js!',
+	    		age: '2'
+	    	}
+	})
+
+</script>
